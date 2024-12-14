@@ -1,2 +1,2 @@
 # api-automation-batch7
-API Automation project menggunakan Palywright
+API Automation project menggunakan Playwright
